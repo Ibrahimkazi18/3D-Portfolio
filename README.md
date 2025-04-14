@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive and polished `README.md` for your 3D Portfolio project, designed to showcase your experimentation with Three.js, GSAP animations, and modern frontend development practices:
-
----
-
 # 3D Portfolio
 
 A visually engaging 3D portfolio website built to explore the capabilities of Three.js and GSAP animations. This project serves as a sandbox for experimenting with interactive 3D elements, smooth animations, and responsive UI design using modern frontend technologies.
@@ -25,12 +21,13 @@ A visually engaging 3D portfolio website built to explore the capabilities of Th
 - **[Tailwind CSS](https://tailwindcss.com/)** Utility-first CSS framework for rapid UI developmen.
 - **[EmailJS](https://www.emailjs.com/)** Service to send emails directly from JavaScript without server-side cod.
 
-## 📁 Project Structur
+## 📁 Project Structure
 
 ```bash
 3D-Portfolio/
 ├── public/
-│   └── assets/             # Static assets like images and 3D models
+│   ├── images/             # Static assets like images and 3D models
+│   └── models/             
 ├── src/
 │   ├── components/         # Reusable React components
 │   ├── sections/           # Different sections of the portfolio (e.g., About, Projects)
@@ -78,8 +75,7 @@ To enable the contact form functionality using EmalJS:
 2. **Create a new email service and template.**
 3. **Obtain your User ID, Service ID, and Template ID.**
 4. **Create a `.env` file in the root directory and add:**
-
-   ```env
+   ```bash
    VITE_EMAILJS_SERVICE_ID=your_service_id
    VITE_EMAILJS_TEMPLATE_ID=your_template_id
    VITE_EMAILJS_USER_ID=your_user_id
@@ -92,7 +88,7 @@ To enable the contact form functionality using EmalJS:
 
 ## 🙌 Acknowledgemnts
 
-- [Three.js](https://threejs.org/) for making 3D in the browser accssibe.
-- [GSAP](https://greensock.com/gsap/) for powerful animation capablitis.
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first CSS tylig.
-- [EmailJS](https://www.emailjs.com/) for simplifying email interation.
+- [Three.js](https://threejs.org/) for making 3D in the browser accssibe.
+- [GSAP](https://greensock.com/gsap/) for powerful animation capablitis.
+- [Tailwind CSS](https://tailwindcss.com/) for utility-first CSS tylig.
+- [EmailJS](https://www.emailjs.com/) for simplifying email interation.
