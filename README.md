@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive and polished `README.md` for your 3D Portfolio project, designed to showcase your experimentation with Three.js, GSAP animations, and modern frontend development practices:
-
----
-
 # 3D Portfolio
 
 A visually engaging 3D portfolio website built to explore the capabilities of Three.js and GSAP animations. This project serves as a sandbox for experimenting with interactive 3D elements, smooth animations, and responsive UI design using modern frontend technologies.
