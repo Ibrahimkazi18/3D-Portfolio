@@ -2,8 +2,6 @@
 
 A visually engaging 3D portfolio website built to explore the capabilities of Three.js and GSAP animations. This project serves as a sandbox for experimenting with interactive 3D elements, smooth animations, and responsive UI design using modern frontend technologies.
 
-![3D Portfolio Screenshot](./public/screenshot.png) <!-- Replace with an actual screenshot if available -->
-
 ## 🚀 Features
 
 - **Three.js Integration**:Render interactive 3D models directly in the browser
