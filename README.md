@@ -75,20 +75,22 @@ To enable the contact form functionality using EmalJS:
 2. **Create a new email service and template.**
 3. **Obtain your User ID, Service ID, and Template ID.**
 4. **Create a `.env` file in the root directory and add:**
+
    ```bash
    VITE_EMAILJS_SERVICE_ID=your_service_id
    VITE_EMAILJS_TEMPLATE_ID=your_template_id
    VITE_EMAILJS_USER_ID=your_user_id
   ```
+
 5. **Ensure your application uses these environment variables to send emails.**
 
-## 📝 Liense
+## 📝 License
 
-This project is licensed under the [MIT License](LIENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-## 🙌 Acknowledgemnts
+## 🙌 Acknowledgements
 
-- [Three.js](https://threejs.org/) for making 3D in the browser accssibe.
-- [GSAP](https://greensock.com/gsap/) for powerful animation capablitis.
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first CSS tylig.
-- [EmailJS](https://www.emailjs.com/) for simplifying email interation.
+- [Three.js](https://threejs.org/) – for making 3D in the browser accessible.
+- [GSAP](https://greensock.com/gsap/) – for powerful animation capabilities.
+- [Tailwind CSS](https://tailwindcss.com/) – for utility-first CSS styling.
+- [EmailJS](https://www.emailjs.com/) – for simplifying email integration.
